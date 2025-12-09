@@ -26,36 +26,36 @@ Below is the full list of files extracted from your uploaded archive:
 
 ### **Chapters**
 
-1. `Introduction to Infrastructure as Code.md`
-2. `Terraform Fundamentals.md`
-3. `AWS Provider Configuration.md`
-4. `Remote State Management.md`
-5. `Core AWS Services with Terraform_.md`
-6. `Security Best Practices.md`
-7. `Code Organization and Structure.md`
-8. `Terraform Modules.md`
-9. `Advanced Terraform Features.md`
-10. `Testing Infrastructure Code.md`
-11. `Terraform at Scale.md`
-12. `Import and Migration.md`
-13. `CI_CD Integration.md`
-14. `Advanced AWS Integrations.md`
-15. `Monitoring and Troubleshooting.md`
-16. `AI-Assisted Terraform Development.md`
-17. `Production Best Practices and Enterprise Patterns.md`
-18. `Real-World Production Projects.md`
-19. `Cost Optimization with Terraform.md`
-20. `Production Readiness Checklist.md`
-21. `Advanced Multi-Account Governance.md`
+1. `Introduction to Infrastructure as Code`
+2. `Terraform Fundamentals`
+3. `AWS Provider Configuration`
+4. `Remote State Management`
+5. `Core AWS Services with Terraform_`
+6. `Security Best Practices`
+7. `Code Organization and Structure`
+8. `Terraform Modules`
+9. `Advanced Terraform Features`
+10. `Testing Infrastructure Code`
+11. `Terraform at Scale`
+12. `Import and Migration`
+13. `CI_CD Integration`
+14. `Advanced AWS Integrations`
+15. `Monitoring and Troubleshooting`
+16. `AI-Assisted Terraform Development`
+17. `Production Best Practices and Enterprise Patterns`
+18. `Real-World Production Projects`
+19. `Cost Optimization with Terraform`
+20. `Production Readiness Checklist`
+21. `Advanced Multi-Account Governance`
 
 ### **Appendices**
 
-* `Appendix A_ Terraform AWS Provider 6.0 Upgrade Guide.md`
-* `Appendix B_ Common Terraform Commands Reference.md`
-* `Appendix C_ AWS Service Coverage Matrix.md`
-* `Appendix D_ Terraform Registry Resources.md`
-* `Appendix E_ 100+ Interview Questions and Answers.md`
-* `Appendix F_ Troubleshooting Quick Reference.md`
+* `Appendix A_ Terraform AWS Provider 6.0 Upgrade Guide`
+* `Appendix B_ Common Terraform Commands Reference`
+* `Appendix C_ AWS Service Coverage Matrix`
+* `Appendix D_ Terraform Registry Resources`
+* `Appendix E_ 100+ Interview Questions and Answers`
+* `Appendix F_ Troubleshooting Quick Reference`
 
 ---
 
